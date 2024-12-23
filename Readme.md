@@ -20,7 +20,7 @@
 
 ### Deployment
 
-- **Transaction Hash**: [Link](https://xt4scan.ngd.network/address/0x7FA53156F69dbadE476dD28442D04c047C0CB2BB)
+- **View on Explorer**: [Link](https://xt4scan.ngd.network/address/0x7FA53156F69dbadE476dD28442D04c047C0CB2BB)
 - **Coin Used**: GAS
 
 
@@ -55,3 +55,18 @@
    - Can win the entire prize pool.
 
 ---
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-23 at 11 38 40 PM" src="https://github.com/user-attachments/assets/4c9d917a-8ed5-49ba-b286-05dc3f951d12" />
+<img width="1440" alt="Screenshot 2024-12-23 at 11 38 53 PM" src="https://github.com/user-attachments/assets/42936146-feda-40fe-a135-548f416d6e70" />
+<img width="1440" alt="Screenshot 2024-12-23 at 11 39 37 PM" src="https://github.com/user-attachments/assets/fb6397e0-abf0-4e2d-9c0c-860a9fddf28c" />
+<img width="1440" alt="Screenshot 2024-12-23 at 11 41 11 PM" src="https://github.com/user-attachments/assets/6b18cc40-295a-4dd9-ab38-f984b1face46" />
+
+
+
+
+
+
+
+
+
