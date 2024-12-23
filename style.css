@@ -1,0 +1,84 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f4b400, #e1a800);
+  color: #1b1b1b; /* Dark font color for contrast */
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  background: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 20px 30px;
+  border: 3px solid #1b263b; /* Dark blue border */
+}
+
+h1 {
+  text-align: center;
+  color: #1b263b; /* Dark blue font */
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 15px;
+  line-height: 1.8;
+}
+
+button {
+  display: inline-block;
+  background-color: #1b263b; /* Dark blue button */
+  color: #f4b400; /* Yellow text */
+  border: none;
+  padding: 12px 25px;
+  margin: 15px 5px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #14203a; /* Slightly darker blue for hover */
+  transform: scale(1.05);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  background: #ffe58a; /* Light yellow background */
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 1px solid #d3ab5c; /* Slightly darker yellow border */
+}
+
+#status {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #fff6c1; /* Pale yellow background */
+  color: #5c4900; /* Dark yellow font */
+  border: 1px solid #e5c045; /* Yellow border */
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #1b1b1b; /* Dark font color for readability */
+}
+
+footer a {
+  color: #1b263b; /* Dark blue for links */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
