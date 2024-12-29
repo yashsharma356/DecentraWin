@@ -15,12 +15,12 @@
 
 ### Contract Details
 
-- **Contract Address**: `0x7FA53156F69dbadE476dD28442D04c047C0CB2BB`
-- **Network**: Neo X Testnet T4
+- **Contract Address**: `0x6B5B798584C396f901CDba60aBA37c0F01719885`
+- **Network**: Neo X Mainnet
 
 ### Deployment
 
-- **View on Explorer**: [Link](https://xt4scan.ngd.network/address/0x7FA53156F69dbadE476dD28442D04c047C0CB2BB)
+- **View on Explorer**: [Link](https://xexplorer.neo.org/address/0x6B5B798584C396f901CDba60aBA37c0F01719885)
 - **Coin Used**: GAS
 
 
